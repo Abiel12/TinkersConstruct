@@ -2,21 +2,21 @@
   "tool": "tconstruct:crossbow",
   "text": [
     {
-      "text": "The crossbow is useful for those wanting to stay quick and ready for a fight"
+      "text": "A besta é útil para aqueles que desejam se manter ágeis e prontos para a luta"
     },
 	{
       "text": "\n"
     },
 	 {
-      "text": "You should never cross a bow",
+      "text": "Nunca de uma besta para um besta",
 	  "paragraph": true
     }
   
   ],
   "properties": [
-    "Quick and nimble type of bow",
-	"Able to keep an arrow prepared to fire",
-	"Likes to party with fireworks"
+    "Tipo de arco rápido e ágil”,
+	“Capaz de manter uma flecha preparada para disparar”,
+	“Gosta de festejar com fogos de artifício”
 	
   ]
 }
