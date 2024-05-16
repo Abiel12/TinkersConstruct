@@ -1,5 +1,5 @@
 {
-  "title": "Recycling Tools",
+  "title": "Reciclagem de ferramentas",
   "image": {
     "file": "tconstruct:book/images/recycling.png",
     "width": 170,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "If you change your mind about a tool, you can always disassemble it in the part builder to salvage one of the tool parts. You can potentially salvage a second part, with a higher chance on repaired tools. Daggers require stacking to 2 in order to recycle.",
+      "text": "Se você mudar de ideia sobre uma ferramenta, sempre poderá desmontá-la no montador de peças para recuperar uma das peças da ferramenta. É possível recuperar uma segunda peça, com uma chance maior em ferramentas bem conservadas. As adagas precisam ser empilhadas em 2 para serem recicladas.",
       "paragraph": true
     }
 	]
