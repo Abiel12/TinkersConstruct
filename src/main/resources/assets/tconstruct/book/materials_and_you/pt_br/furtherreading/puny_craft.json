@@ -1,8 +1,8 @@
 {
-  "title": "Puny Smelting by Thruul",
+  "title": "Fundições frágeis por Thruul",
   "recipe": "tconstruct:common/puny_smelting",
   "grid_size": "small",
   "description": [
-    { "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oPuny Smelting§r and §oMighty Smelting§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE." }
+    { "text": "MUITO BEM, SEUS TINKERS, PRESTEM ATENÇÃO. Sou o primeiro e único §lTHRUUL M'GON§r e meus dois novos livros §oFundições Frágeis§r e §oFundições Poderosas§r o instruirão a usar materiais muito melhores, fundir seus metais, fazer lingotes e MUITO MAIS." }
   ]
 }
