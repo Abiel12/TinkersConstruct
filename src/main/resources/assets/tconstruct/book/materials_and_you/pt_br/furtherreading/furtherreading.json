@@ -1,6 +1,12 @@
 {
-  "title": "Leitura adicional",
+  "title": "Leitura Complementar",
   "text": [
-    { "text": "Os idiotas que decidiram fazer propaganda na frente do meu livro por causa dos estúpidos acordos editoriais, informaram-lhe erroneamente. Estes livros não aparecerão nas prateleiras, vocês mesmos terão que fazê-los." }
+    {
+      "text": "Agora que você compreende os conceitos tinker, Reserve um tempo para usar o que você aprendeu e criar algumas ferramentas básicas. Uma vez que você estiver familiarizado com o básico, alguns dos meus colegas escreveram seus próprios livros cobrindo tópicos mais avançados."
+    },
+    {
+      "text": "Uma dica para lidar com esses livros: como a maioria de nós tem apenas dois braços, considere a possibilidade de usar um atril para segurar seus livros perto da estação de trabalho.",
+      "paragraph": true
+    }
   ]
 }
