@@ -1,8 +1,8 @@
 {
-  "title": "Fabricação de Aparelhos tinkers",
+  "title": "Tinker's Gadgetry por Melvin",
   "recipe": "tconstruct:common/tinkers_gadgetry",
   "grid_size": "small",
   "description": [
-    { "text": "Usos do slime nas tarefas cotidianas. Guia de Melvin sobre como encontrar materiais para Tinkerar no mundo." }
+    { "text": "Eu tenho um monte de artigos feitos a partir de slime, pólvora e todas as coisas mais estranhas que você possa imaginar, eu até fiz uma armadura feita de slime! Em breve, em §oTinker's §oGadgetry§r, por Melvin." }
   ]
 }
